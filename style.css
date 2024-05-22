@@ -350,6 +350,10 @@ section {
   flex-direction: column;
 }
 
+.experience-details-container-list{
+  justify-content: left;
+}
+
 .article-container {
   display: flex;
   text-align: initial;
