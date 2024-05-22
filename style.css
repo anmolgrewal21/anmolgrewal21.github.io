@@ -356,7 +356,7 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  font-size: 2rem; /* Adjust the font size as needed */
+  font-size: 3rem; /* Adjust the font size as needed */
   justify-content: space-around;
   padding: 2px; /* Adjust the padding as needed */
 }
@@ -371,8 +371,8 @@ article {
 
 article .icon {
   cursor: default;
-  width: 15px; /* Adjust the width as needed */
-  height: 15px; /* Adjust the height as needed */
+/* width: 15px; /* Adjust the width as needed */
+/*  height: 15px; /* Adjust the height as needed */
 }
 
 /* PROJECTS SECTION */
