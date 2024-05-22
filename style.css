@@ -358,7 +358,7 @@ section {
   gap: 2.5rem;
   font-size: 2rem; /* Adjust the font size as needed */
   justify-content: space-around;
-  padding: 2px; /* Adjust the padding as needed */
+  padding: 0.5px; /* Adjust the padding as needed */
 }
 
 article {
