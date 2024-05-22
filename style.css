@@ -359,7 +359,6 @@ section {
 }
 
 .article-container {
-  margin-top: 2rem;
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
