@@ -363,7 +363,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
- /* gap: 2.5rem;*/
+  gap: 2.5rem;
   font-size: 2rem; /* Adjust the font size as needed */
   justify-content: space-around;
  /* padding: 0.5px; /* Adjust the padding as needed */
