@@ -222,6 +222,8 @@ section {
   gap: 1rem;
 }
 
+
+
 /* ICONS */
 
 .icon {
@@ -403,9 +405,19 @@ article .icon {
   color: black;
 }
 
+/* .project-btn {
+  color: black;
+  border-color: rgb(163, 163, 163);
+} */
+
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+  width: 150px; /* Set a fixed width */
+  height: 50px; /* Set a fixed height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* CONTACT */
