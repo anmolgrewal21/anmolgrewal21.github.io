@@ -356,7 +356,7 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  font-size: 0.8rem; /* Adjust the font size as needed */
+  font-size: 0.5rem; /* Adjust the font size as needed */
   justify-content: space-around;
   padding: 10px; /* Adjust the padding as needed */
 }
@@ -364,15 +364,15 @@ section {
 article {
   display: flex;
   width: 10rem;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   justify-content: space-around;
   gap: 0.5rem;
 }
 
 article .icon {
   cursor: default;
-  width: 20px; /* Adjust the width as needed */
-  height: 20px; /* Adjust the height as needed */
+  width: 10px; /* Adjust the width as needed */
+  height: 10px; /* Adjust the height as needed */
 }
 
 /* PROJECTS SECTION */
