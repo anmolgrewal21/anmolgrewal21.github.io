@@ -371,6 +371,7 @@ section {
 }
 
 article {
+  margin-top: 2rem;
   display: flex;
   width: 10rem;
   font-size: 0.75rem;
@@ -380,8 +381,8 @@ article {
 
 article .icon {
   cursor: default;
-  width: 10px; /* Adjust the width as needed */
-  height: 10px; /* Adjust the height as needed */
+  width: 15px; /* Adjust the width as needed */
+  height: 15px; /* Adjust the height as needed */
 }
 
 /* PROJECTS SECTION */
